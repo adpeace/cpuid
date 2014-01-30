@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <limits.h>
 #include <stdint.h>
-#include <errno.h>
 
 void u32_to_bin(uint32_t in, char s[])
 {
